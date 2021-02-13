@@ -1,0 +1,9 @@
+export const HOME_MOVIE_CACHE_KEY = 'MOVIES_HOME';
+export const HOME_SHOW_CACHE_KEY = 'SHOWS_HOME';
+export const PRIMARY_BG = '#212121';
+export const PRIMARY_OUTLINE = '#616161';
+export const PRIMARY_FOCUS = '#9e9e9e';
+export const WHITE = '#fafafa';
+export const SECONDARY_BLACK = '#121212';
+export const DARK_GREY = '#424242';
+export const LIGHT_GREY = '#bdbdbd';
